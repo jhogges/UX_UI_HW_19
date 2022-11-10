@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../1 GT UX:UI Bootcamp/Modules/Week 18/18.1/18.1-activities/01_Your_First_Flex_Layout/solved"
+		},
+		{
+			"path": "../../../1 GT UX:UI Bootcamp/Modules/Week 18/18.1/18.1-activities/02_Sizing_With_Flex_Items/solved"
+		},
+		{
+			"path": "../../../1 GT UX:UI Bootcamp/Modules/Week 18/18.1/18.1-activities/03_Jakes_Eatery/solved"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_18"
+	}
+}
