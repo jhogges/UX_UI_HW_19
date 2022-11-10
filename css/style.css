@@ -71,33 +71,22 @@
   #Zen {
     grid-area: Zen;
     background-image: url("../images/Zen.png");
-    border-width:2px;
-    border-style:solid;
-    border-color:blue;
   }
+
   #DeptofEd {
     grid-area: DeptofEd;
     background-image: url("../images/DeptofEd.png");
-    border-width:2px;
-    border-style:solid;
-    border-color:blue;
   }
   
   /*How to make text color white for this one*/
   #TravelX {
     grid-area: TravelX;
     background-image: url("../images/TravelX.jpeg");
-    border-width:2px;
-    border-style:solid;
-    border-color:blue;
   }
   
   #MCC {
     grid-area: MCC;
     background-image: url("../images/MCC.jpeg");
-    border-width:2px;
-    border-style:solid;
-    border-color:blue;
   }
 
   .categoryGridArea {
@@ -118,37 +107,7 @@
     padding: 10px;
     height: 300px;
   }
- 
-  .bordersection{
-    border-width:2px;
-    border-style:solid;
-    border-color:red;
-  }
-  .borderheader1{
-    border-width:1px;
-    border-style:solid;
-    border-color:rgb(21, 255, 21);
-  }
-  .borderheader3{
-    border-width:1px;
-    border-style:solid;
-    border-color:rgb(255, 3, 255);
-  }
-  .borderpar{
-    border-width:2px;
-    border-style:solid;
-    border-color:rgb(255, 230, 0);
-  }
-  .borderimage{
-    border-width:1px;
-    border-style:solid;
-    border-color:blue;
-  }
-  .borderbutton{
-    border-width:1px;
-    border-style:solid;
-    border-color:orange;
-  }
+
 
 
   /*Mobile*/
